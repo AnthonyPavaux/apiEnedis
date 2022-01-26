@@ -12,6 +12,7 @@ Cette intégration fonctionne à l'aide de la passerelle fournie par https://ene
 Avant de pouvoir utiliser cette intégration, assurez vous : 
 * D'avoir validé la partage de données avec la [passerelle](https://enedisgateway.tech/),
 * Et d'avoir activé sur votre [espace privé Enedis](https://mon-compte-client.enedis.fr/) la remontée des informations de votre linky.
+* D'etre sur le téritoire de distribution d'enedis (et non sur le teritoire d'une autre entreprise locale de distribution (Sicae))
 
 ## Installer l'intégration
 
